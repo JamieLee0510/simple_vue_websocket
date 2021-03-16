@@ -1,5 +1,15 @@
 # beextw_frontend_test
 
+將WebSocket之url存進.env環境變量 
+利用Echart製作成蠟燭圖 
+效果如下： 
+![img](https://github.com/LiDingYu0510/simple_vue_websocket/blob/main/Candle_Chart_present.gif)
+ 
+  
+   
+    
+    
+
 ## Project setup
 ```
 npm install
